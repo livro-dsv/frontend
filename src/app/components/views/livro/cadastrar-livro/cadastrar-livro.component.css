@@ -1,0 +1,23 @@
+button {
+  background-color: aquamarine;
+  border: none;
+  margin: 20px 0;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+label {
+  display: block;
+  margin-top: 8px;
+}
+
+a {
+  background-color: rgb(7, 65, 65);
+  border: none;
+  margin: 20px 0;
+  padding: 8px 20px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
