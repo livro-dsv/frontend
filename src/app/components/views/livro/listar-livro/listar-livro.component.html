@@ -1,0 +1,8 @@
+<ol>
+  <li *ngFor="let livro of livros">
+    <b>Título:</b> {{ livro.titulo }} | <b>Autor:</b> {{ livro.autor }} |
+    <b>Gênero:</b> {{ livro.genero }} | <b>Preço </b> R${{ livro.preco }}
+  </li>
+</ol>
+
+<a routerLink="/livro/cadastrar">Cadastrar Livro</a>

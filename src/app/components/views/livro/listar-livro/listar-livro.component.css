@@ -1,0 +1,15 @@
+li {
+  border-bottom: 1px solid aqua;
+  padding: 8px;
+}
+
+a {
+  background-color: rgb(7, 65, 65);
+  border: none;
+  margin: 20px;
+  padding: 8px 20px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
